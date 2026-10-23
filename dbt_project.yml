@@ -36,7 +36,7 @@ models:
       +materialized: view
 
 vars:
-  fivetran_platform_schema: vamsi_kasetty_transformations_schema_fivetran_log
+  fivetran_platform_schema: vamsi_kasetty_transformations_schema
   fivetran_platform_using_destination_membership: false
   fivetran_platform_using_user: false
   fivetran_platform_using_incremental_mar: false
